@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include "calc.h"
 
-int sum;
-
 int main() {
     double num1, num2, sum;
     

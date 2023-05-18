@@ -9,17 +9,19 @@
  */
 double sum(double a, double b)
 {
+	double result;
+
 	if (a <= 0)
 	{
-		sum = b + a;
+		result = b + a;
 	}
 	else if (b <= 0)
 	{
-		sum = a + b;
+		result = a + b;
 	}
 	else
 	{
-		sum = a + b;
+		result = a + b;
 	}
-	return (sum);
+	return (result);
 }
