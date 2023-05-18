@@ -6,14 +6,15 @@ int sum;
 int main() {
     double num1, num2, sum;
     
-    printf("enter the first number: ");
-    scanf("%if", &num1);
+    printf("Enter the first number: ");
+    scanf("%lf", &num1);
     
-    printf("enter the second number: ");
-    scanf("%if", &num1);
+    printf("Enter the second number: ");
+    scanf("%lf", &num2);
     
     sum = num1 + num2;
     
-    printf("The sum of the two numbers is: %if", sum );
+    printf("The sum of the two numbers is: %lf\n", sum);
+    
     return 0;
 }
