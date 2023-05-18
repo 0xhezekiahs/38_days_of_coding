@@ -3,6 +3,6 @@
 
 #include <math.h>
 
-int sum(int a, int b);
+double sum(double a, double b);
 
 #endif
