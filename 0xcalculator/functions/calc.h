@@ -4,5 +4,6 @@
 #include <math.h>
 
 double sum(double a, double b);
+double mul(double a, double b);
 
 #endif
