@@ -4,5 +4,4 @@
 #include <math.h>
 
 int sum(int a, int b);
-
 #endif
