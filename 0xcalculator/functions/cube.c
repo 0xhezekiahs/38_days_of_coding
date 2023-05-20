@@ -6,7 +6,7 @@
  * 
  * Return: the cube
  */
-double cube(double a)
+double cube(double n)
 {
 	double result = a * a * a;
 
