@@ -11,4 +11,7 @@ double square(double a);
 double sq_root(double a);
 double cube(double n);
 double cuberoot(double n);
+double sine(double n);
+double cos(double n);
+double tan(double n);
 #endif
