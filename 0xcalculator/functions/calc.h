@@ -12,14 +12,13 @@ double square(double a);
 double sq_root(double a);
 double cube(double n);
 double cuberoot(double n);
-<<<<<<< HEAD
+
+/*Trigonometric functions*/
 double sin(double n);
 double cos(double n);
 double tan(double n);
+double SineInverse(double n);
+double Cosinverse(double n);
+double TanInverse(double n);
 
-=======
-double sine(double n);
-double cos(double n);
-double tan(double n);
->>>>>>> 53fdea35ee881ba0d1acd73b223df2ca1404f6a0
 #endif
