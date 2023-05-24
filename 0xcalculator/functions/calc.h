@@ -17,8 +17,7 @@ double cuberoot(double n);
 double sin(double n);
 double cos(double n);
 double tan(double n);
-double SineInverse(double n);
-double Cosinverse(double n);
-double TanInverse(double n);
-
+double sineInv(double n);
+double cosInv(double n);
+double tanInv(double n);
 #endif
