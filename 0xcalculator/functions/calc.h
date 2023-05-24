@@ -3,11 +3,15 @@
 
 #include <math.h>
 
-int sum(int a, int b);
+/* Basic arithmetic functions */
+
 double sum(double a, double b);
 double diff(double a, double b);
 double mul(double a, double b);
 double div(double a, double b);
+
+/* Power and roots */
+
 double square(double a);
 double sq_root(double a);
 double cube(double n);
