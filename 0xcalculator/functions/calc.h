@@ -2,8 +2,8 @@
 #define CALC_H
 
 #include <math.h>
+#define PI 3.142
 
-int sum(int a, int b);
 double sum(double a, double b);
 double diff(double a, double b);
 double mul(double a, double b);
@@ -20,5 +20,7 @@ double tan(double n);
 double SineInverse(double n);
 double Cosinverse(double n);
 double TanInverse(double n);
+double cot(double num);
+
 
 #endif
