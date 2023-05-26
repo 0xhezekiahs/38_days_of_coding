@@ -2,6 +2,7 @@
 #define CALC_H
 
 #include <math.h>
+#define PI 3.14
 
 /* Basic arithmetic functions */
 
@@ -24,4 +25,7 @@ double tan(double n);
 double sineInv(double n);
 double cosInv(double n);
 double tanInv(double n);
+double secant(double n);
+double cosecant(double n);
+double cotangent(doubl n);
 #endif
