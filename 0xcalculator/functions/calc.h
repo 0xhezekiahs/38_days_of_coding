@@ -2,7 +2,10 @@
 #define CALC_H
 
 #include <math.h>
-#define PI 3.142
+
+#define PI 3.14
+
+/* Basic arithmetic functions */
 
 double sum(double a, double b);
 double diff(double a, double b);
@@ -17,10 +20,11 @@ double cuberoot(double n);
 double sin(double n);
 double cos(double n);
 double tan(double n);
-double SineInverse(double n);
-double Cosinverse(double n);
-double TanInverse(double n);
-double cot(double num);
-
+double sineInv(double n);
+double cosInv(double n);
+double tanInv(double n);
+double secant(double n);
+double cosecant(double n);
+double cotangent(double n);
 
 #endif
