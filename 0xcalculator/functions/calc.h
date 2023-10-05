@@ -27,5 +27,5 @@ double cosInv(double n);
 double tanInv(double n);
 double secant(double n);
 double cosecant(double n);
-double cotangent(doubl n);
+double cotangent(double n);
 #endif
